@@ -2,17 +2,17 @@
 
 #### Preview
 
- - [Demo](https://themewagon.github.io/Crypgo/)
+ - [Demo](https://jamilrayhan100.github.io/cypgo-free/)
 
 #### Download
- - [Download from ThemeWagon]( https://themewagon.com/themes/crypgo)
+ - [Download from ThemeWagon]( https://github.com/jamilrayhan100/cypgo-free)
  
  
 ## Getting Started
 
 1. Clone from Github 
 ```
-git clone https://github.com/themewagon/Crypgo.git
+git clone https://github.com/jamilrayhan100/cypgo-free
 ```
 2. Install Dependencies
 ```
@@ -30,7 +30,7 @@ Design and code is completely written by Getnext.jsTemplates design and developm
 
 ## License
 
- - Design and Code is Copyright &copy; [Getnext.jsTemplates](https://getnextjstemplates.com)
+ - Design and Code is Copyright &copy; [webarwa.jsTemplates](https://webarwa.com)
  - Licensed cover under [MIT]
- - Distributed by [ThemeWagon](https://themewagon.com)
+ - Distributed by [webarwa](https://webarwa.com)
 
