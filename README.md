@@ -2,10 +2,10 @@
 
 #### Preview
 
- - [Demo](https://jamilrayhan100.github.io/cypgo-free/)
+ - [Demo](https://themewagon.github.io/Crypgo/)
 
 #### Download
- - [Download from ThemeWagon]( https://github.com/jamilrayhan100/cypgo-free)
+ - [Download from webarwa]( https://github.com/jamilrayhan100/cypgo-free)
  
  
 ## Getting Started
@@ -25,12 +25,12 @@ npm run dev
 
 ## Author
 
-Design and code is completely written by Getnext.jsTemplates design and development team.  
+Design and code is completely written by webarwa design and development team.  
 
 
 ## License
 
- - Design and Code is Copyright &copy; [webarwa.jsTemplates](https://webarwa.com)
+ - Design and Code is Copyright &copy; [webarwa.com/free-template](https://webarwa.com)
  - Licensed cover under [MIT]
  - Distributed by [webarwa](https://webarwa.com)
 
